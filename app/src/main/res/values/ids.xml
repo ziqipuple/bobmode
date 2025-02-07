@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="transparent_layer" type="id"/>
+    <item name="debug_ui" type="id"/>
+</resources>
+
